@@ -1,0 +1,1 @@
+apt-get update ; apt-get upgrade --yes ; apt-get install git --yes ; apt-get install gcc --yes
